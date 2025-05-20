@@ -35,6 +35,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
 </p>
 
----
-
-💡 *"Always deliver more than expected."*
